@@ -8,7 +8,7 @@ Estudo C# e .NET por conta própria, e pretendo seguir minha carreira no BackEnd
 Estou sempre por dentro de todas as novidades na área de programação e tecnologia!
 
 <h3 align="left">Contact:</h3>
-[![DIO](https://img.shields.io/badge/DIO-E94D5F?style=for-the-badge)](https://www.dio.me/users/eduxdudu)
+
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=apple&logoColor=71B7FB&color:FFF&)](mailto:eduxdudu@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=71B7FB&color:FFF)](https://www.linkedin.com/in/eduardo-rodrigues1988/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/rodrigueseduardo)
