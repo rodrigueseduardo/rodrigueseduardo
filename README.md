@@ -1,6 +1,6 @@
 <img align="right" alt="" height="300px" src="./me.jpeg">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50FA7B&random=false&width=435&lines=Welcome+to+my+Hub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F706&random=false&width=435&lines=Welcome+to+my+hub!)](https://git.io/typing-svg)
 
 
 <p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na universidade Anhanguera Educacional.
