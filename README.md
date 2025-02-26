@@ -1,5 +1,3 @@
-<img align="right" alt="" height="300px" src="./me.jpeg">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F706&random=false&width=435&lines=Welcome+to+my+hub!)](https://git.io/typing-svg)
 
 
@@ -14,18 +12,6 @@
   
 <h3 align="left">My Stuff</h3>
 <div align="left">
-  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="55" alt="cshap logo"  />
-  <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" height="55" alt=".net logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" height="55" alt="cshap logo"  />
-  <img width="8" />
-  <img src="https://git-scm.com/images/logo@2x.png" height="55" alt="cshap logo"  />
-  <img width="8" />
   <img src="https://draculatheme.com/images/hero/dracula-icon.svg" height="55" alt="postgresql logo"  />
   <img width="8" />
 </div>
@@ -50,7 +36,7 @@
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>.
   - Developer digital art created by BingIA
  
-  <div align="right">Made by <a href="https://github.com/rodrigueseduardo">Eduardo Rodrigues 'PhazonX'</a>.</div>
+  <div align="right">Made by <a href="https://github.com/rodrigueseduardo">Eduardo Rodrigues '☠ DUZΛO ☠ I.S.S.I'</a>.</div>
 
 </details>
 
