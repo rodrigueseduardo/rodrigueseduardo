@@ -3,15 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F706&random=false&width=435&lines=Welcome+to+my+hub!)](https://git.io/typing-svg)
 
 
-<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na universidade Anhanguera Educacional.
-Estudo C# e .NET por conta própria, e pretendo seguir minha carreira no BackEnd como ponto inicial, futuramente me tornar um dev fullstack.
-Estou sempre por dentro de todas as novidades na área de programação e tecnologia!
+<p align="left">Atualmente sou Sócio fundador da empresa Wizard Games. Realizo reparos de consoles de primeira a última geração.
 
 <h3 align="left">Contact:</h3>
 
-[![Perfil DIO](https://img.shields.io/badge/-DIO-000?style=for-the-badge&logo=&logoColor=71B7FB&color:FFF&)](https://www.dio.me/users/eduxdudu)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=apple&logoColor=71B7FB&color:FFF&)](mailto:eduxdudu@icloud.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=71B7FB&color:FFF)](https://www.linkedin.com/in/eduardo-rodrigues1988/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/rodrigueseduardo)
 [![Facebook](https://img.shields.io/badge/-Facebook-000?style=for-the-badge&logo=facebook&logoColor=71B7FB&color:FFF)](https://www.facebook.com/rodrigues.o.eduardo)
 
